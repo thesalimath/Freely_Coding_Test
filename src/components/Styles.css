@@ -1,0 +1,53 @@
+body {
+  background-color: #ecf0f4;
+}
+.trip-card {
+  background-color: #ffffff;
+  text-align: center;
+  margin: 10px;
+  width: 30vw;
+  height: 30vh;
+  float: left;
+}
+
+.date {
+  font-size: 16px;
+}
+.content-status {
+  font-weight: bold;
+}
+.entry-instruction {
+  color: red;
+  text-align: center;
+}
+.exit-instruction {
+  color: green;
+  text-align: center;
+}
+.header {
+  font-size: 20px;
+  font-weight: bold;
+}
+.trip-card-started {
+  background-color: #6567d6;
+  text-align: center;
+  margin: 10px;
+  width: 30vw;
+  height: 30vh;
+  float: left;
+}
+.trip-card-not-started {
+  background-color: #c6fbf8;
+  text-align: center;
+  margin: 10px;
+  width: 30vw;
+  height: 30vh;
+  float: left;
+}
+.trip-Container {
+  background-color: #ecf0f4;
+}
+
+.load-button {
+  margin: 20%;
+}
